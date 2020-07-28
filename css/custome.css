@@ -1,0 +1,79 @@
+.jumbotron{
+ background-image:url('../img/ss.jpg');
+ background-size: cover;
+ min-height: 750px;
+}
+
+.display-4{
+ justify-content: center;
+ padding-top: 120px;
+ color: #fff;
+}
+
+.lead{
+ color: #fff;
+}
+
+.section-title{
+     margin-bottom: 10px;
+    text-align: center;
+}
+
+
+
+.section-title > h2{
+     color: #ef6644;
+    display: inline-block;
+    line-height: 19px;
+    margin-bottom: 7px;
+    position: relative;
+
+}
+ 
+ .col-12{
+  padding-right: 0px;
+ }
+
+.line{
+  margin-bottom: 10px;
+    text-align: center;
+    display: flex;
+    margin-left: 474px;
+
+}
+
+.line1 {
+
+    background: #ef6644 ;
+    bottom: -19px;
+    content: "";
+    height: 1px;
+    width: 80px;
+    position: relative;
+}
+
+.section-icon {
+    color: #ef6644;
+}
+
+.card-img-top{
+ height: 300px;
+}
+
+footer{
+ background-color:#212121;
+ margin-top: 10px;
+}
+
+
+.text-color{
+	color: #fff;
+}
+
+.parcolor{
+	color: #fff;
+}
+
+.iconcolor{
+	color: #fff;
+}
